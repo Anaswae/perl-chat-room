@@ -1,4 +1,4 @@
-#PCR [Perl Chat Room]<br>
+<b>PCR [Perl Chat Room]</b><br>
 How To Install? :<br><br>
 $pkg update && upgrade<br>
 $pkg install perl<br>
